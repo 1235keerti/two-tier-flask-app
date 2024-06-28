@@ -3,7 +3,7 @@
 ## SetUp
 - First clone the code to your machine
 ```bash
-git clone https://github.com/LondheShubham153/two-tier-flask-app.git
+git clone git clone https://github.com/your-username/your-repo-name.git
 ```
 - Move to k8s directory
 ```bash
